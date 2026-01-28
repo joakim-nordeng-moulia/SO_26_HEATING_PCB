@@ -2,8 +2,14 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid d3eae8a3-985d-4774-9b27-9c8a07d168d9)
+	(uuid "d3eae8a3-985d-4774-9b27-9c8a07d168d9")
 	(paper "A4")
+	(title_block
+		(title "so_26_heating_pcb")
+		(date "2026-01-28")
+		(rev "1")
+		(company "Joakim Moulia")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
