@@ -247,7 +247,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "SO_Symbols"
+    ]
   },
   "meta": {
     "filename": "so_26_heating_pcb.kicad_pro",
