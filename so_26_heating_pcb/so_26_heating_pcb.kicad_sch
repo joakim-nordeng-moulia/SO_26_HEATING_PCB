@@ -1645,7 +1645,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "5R"
 			(at 143.51 40.6399 0)
 			(effects
 				(font
@@ -1715,7 +1715,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "100n"
 			(at 157.48 36.8362 0)
 			(effects
 				(font
@@ -2012,7 +2012,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 130.81 64.77 90)
+		(at 130.81 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2028,7 +2028,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "10R"
 			(at 130.81 62.23 90)
 			(effects
 				(font
@@ -2149,7 +2149,7 @@
 	)
 	(symbol
 		(lib_id "so_26_obc_library:PCT2075")
-		(at 86.36 118.11 0)
+		(at 82.55 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2158,7 +2158,7 @@
 		(fields_autoplaced yes)
 		(uuid "94a453ba-bec9-4503-ab1c-2f0709f484fb")
 		(property "Reference" "U2"
-			(at 78.994 100.33 0)
+			(at 75.184 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2167,7 +2167,7 @@
 			)
 		)
 		(property "Value" "PCT2075"
-			(at 83.82 101.6 0)
+			(at 80.01 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2175,7 +2175,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 115.57 0)
+			(at 80.01 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2184,7 +2184,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf"
-			(at 83.058 118.11 0)
+			(at 79.248 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2193,7 +2193,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 115.57 0)
+			(at 80.01 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +2253,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "10k"
 			(at 124.46 68.5799 0)
 			(effects
 				(font
