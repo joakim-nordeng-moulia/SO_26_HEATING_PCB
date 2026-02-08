@@ -5652,15 +5652,15 @@
 		(dnp no)
 		(uuid "bb4e4441-f283-4d19-9f6b-001e4895aab5")
 		(property "Reference" "U3"
-			(at 168.148 107.696 0)
+			(at 173.736 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 170.18 101.6 0)
+		(property "Value" "NTJD5121NT1G"
+			(at 176.784 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6265,10 +6265,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f1fd8992-a180-40a5-abdb-0bbdaac1995c")
 		(property "Reference" "U4"
-			(at 212.09 114.9349 0)
+			(at 203.454 112.522 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6276,8 +6275,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 212.09 117.4749 0)
+		(property "Value" "PXN6R2-25QLJ"
+			(at 197.612 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
