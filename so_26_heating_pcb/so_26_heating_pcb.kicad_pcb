@@ -546,7 +546,7 @@
 		)
 		(fp_circle
 			(center 12.85 -11.4)
-			(end 16.85 -11.4)
+			(end 14.85 -11.4)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -557,10 +557,10 @@
 		)
 		(fp_circle
 			(center 29.7 11.4)
-			(end 33.7 11.35)
+			(end 31.7 11.4)
 			(stroke
 				(width 0.05)
-				(type default)
+				(type solid)
 			)
 			(fill no)
 			(layer "Edge.Cuts")
@@ -6571,7 +6571,7 @@
 	)
 	(gr_circle
 		(center 84.777251 74.777251)
-		(end 87.977251 74.777251)
+		(end 86.377251 74.777251)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -6603,7 +6603,7 @@
 	)
 	(gr_circle
 		(center 84.777251 38.777251)
-		(end 87.977251 38.777251)
+		(end 86.377251 38.777251)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -6614,7 +6614,7 @@
 	)
 	(gr_circle
 		(center 58.777251 38.777251)
-		(end 61.977251 38.777251)
+		(end 60.377251 38.777251)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -6625,7 +6625,7 @@
 	)
 	(gr_circle
 		(center 58.777251 74.777251)
-		(end 61.977251 74.777251)
+		(end 60.377251 74.777251)
 		(stroke
 			(width 0.05)
 			(type solid)
