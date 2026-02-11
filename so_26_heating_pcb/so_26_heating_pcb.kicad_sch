@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "409ab98f-0466-43e5-b6e1-fa649dc25331")
 	(paper "A4")
+	(title_block
+		(title "SO26 Heating element")
+		(date "2026-02-11")
+		(rev "1")
+		(company "Orbit NTNU")
+		(comment 1 "Joakim Moulia")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x06_Odd_Even"
 			(pin_names
