@@ -6839,7 +6839,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "SO26 - Heating PCB\nJoakim Moulia\n11.02.26"
+	(gr_text "SO26 - Heating PCB\nREV 1\nJoakim Moulia\n11.02.26"
 		(at 61.2 60.3 90)
 		(layer "F.SilkS")
 		(uuid "d6143f5d-0bd3-46f3-9979-f87e32c2bed6")

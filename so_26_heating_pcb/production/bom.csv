@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C7",1206,2,10u,
+C2,CP_Radial_D6.3mm_P2.50mm,1,100u,
+"C3, C4, C5, C8",0805,4,100n,
+"D1, D2",0805,2,LED_PWR,
+J1,PinSocket_2x06_P2.54mm_Vertical,1,Conn_02x06_Odd_Even,
+"R1, R10, R12, R2, R8, R9",0805,6,10k,
+R11,R_Power_Block_27x17_Pxx,1,5R,
+R3,0805,1,3.3Meg,
+U1,UV_sensor,1,AS7331,
+U2,TSSOP-8_3x3mm_P0.65mm,1,PCT2075,
+U3,SOT-363_SC-70-6_Handsoldering,1,NTJD5121NT1G,
+U4,LFPAK33,1,PXN6R2-25QLJ,
